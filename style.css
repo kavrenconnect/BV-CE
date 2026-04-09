@@ -423,6 +423,7 @@
     }
     .colorText{
       color: var(--primary);
+        font-size: small;
     }
     .underText{
       margin-top: 0.7em;
