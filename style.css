@@ -110,6 +110,7 @@
   }
   .colorText{
     color: var(--primary);
+      font-size: 2em;
   }
   .underText{
     /* margin-top: -7px; */
@@ -423,7 +424,6 @@
     }
     .colorText{
       color: var(--primary);
-        font-size: small;
     }
     .underText{
       margin-top: 0.7em;
